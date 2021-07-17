@@ -1,7 +1,7 @@
 #변수
 memory = []
 dataAray = ['다현','정연','쯔위','사나','지효']
-pre, heat, current = None,None,None
+pre, head, current = None,None,None
 
 #함수
 class Node():
